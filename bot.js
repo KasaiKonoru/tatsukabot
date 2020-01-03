@@ -10,5 +10,3 @@ client.on('message', msg => {
     msg.reply('Pong!');
   }
 });
-
-client.login("NjYyNjc2NTcyNjAzNjc4Nzkx.Xg9neQ.dRxGS6V_9NVzmuyuLKUZ1ykI0x0");
